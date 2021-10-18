@@ -1,12 +1,7 @@
 ## Hello, Tech World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-### Aqui é a  Paula,
-
-
-
-
-
 
 ### About me
+A Data Engineer Trainee living in Brasilia, Brazil! 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulaCoelhoo)](https://github.com/paulaCoelhoo)
 
